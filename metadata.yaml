@@ -1,0 +1,41 @@
+_repo: Excursions_9846
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Emerson, Ralph Waldo
+    aliases:
+    - Emerson, R. Waldo (Ralph Waldo)
+    - Emerson, Waldo
+    - Emerson, R. W. (Ralph Waldo)
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '1071'
+    url: http://www.gutenberg.org/2009/agents/1071
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+creator:
+  author:
+    agent_name: Thoreau, Henry David
+    alias: Thoreau, Henry D. (Henry David)
+    birthdate: 1817
+    deathdate: 1862
+    gutenberg_agent_id: '54'
+    url: http://www.gutenberg.org/2009/agents/54
+    wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
+description: Includes a biographical sketch By Ralph Waldo Emerson.
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Biographical sketch [by R.W. Emerson] -- Natural history of Massachusetts
+  -- A walk to Wachusett -- The landlord -- A winter walk -- The succession of forest
+  trees -- Walking -- Autumnal tints -- Wild apples -- Night and moonlight.
+title: Excursions
+url: http://www.gutenberg.org/ebooks/9846

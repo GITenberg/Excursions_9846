@@ -1,5 +1,5 @@
 _repo: Excursions_9846
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Emerson, Ralph Waldo
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '1071'
     url: http://www.gutenberg.org/2009/agents/1071
     wikipedia: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thoreau, Henry David
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54
     wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
 description: Includes a biographical sketch By Ralph Waldo Emerson.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9846#Excursions
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
